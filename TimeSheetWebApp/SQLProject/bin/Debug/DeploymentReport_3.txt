@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Category] (Table)
+       [dbo].[Client] (Table)
+       [dbo].[Country] (Table)
+       [dbo].[Employee] (Table)
+       [dbo].[Lead] (Table)
+       [dbo].[Project] (Table)
+       [dbo].[TimeSheet] (Table)
+       [dbo].[WorkingRelationships] (Table)
+
+** Supporting actions

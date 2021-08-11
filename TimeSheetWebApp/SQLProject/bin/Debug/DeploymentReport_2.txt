@@ -1,0 +1,24 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [dbo].[FK_Client_ToCountry] (Foreign Key)
+       [dbo].[FK_Lead_ToEmployee] (Foreign Key)
+       [dbo].[FK_Lead_ToProject] (Foreign Key)
+       [dbo].[FK_Project_ToClient] (Foreign Key)
+       [dbo].[FK_TimeSheet_ToCategory] (Foreign Key)
+       [dbo].[FK_TimeSheet_ToClient] (Foreign Key)
+       [dbo].[FK_TimeSheet_ToEmployee] (Foreign Key)
+       [dbo].[FK_TimeSheet_ToProject] (Foreign Key)
+       [dbo].[FK_WorkingRelationships_ToEmployee] (Foreign Key)
+       [dbo].[FK_WorkingRelationships_ToProject] (Foreign Key)
+
+** Supporting actions

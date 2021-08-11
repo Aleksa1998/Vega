@@ -1,0 +1,6 @@
+C:\VEGApraksa\timesheet\TimeSheetWebApp\SQLProject\bin\Debug\SQLProject.dacpac
+C:\VEGApraksa\timesheet\TimeSheetWebApp\SQLProject\bin\Debug\SQLProject.dll
+C:\VEGApraksa\timesheet\TimeSheetWebApp\SQLProject\bin\Debug\SQLProject.pdb
+C:\VEGApraksa\timesheet\TimeSheetWebApp\SQLProject\obj\Debug\SQLProject.dll
+C:\VEGApraksa\timesheet\TimeSheetWebApp\SQLProject\obj\Debug\SQLProject.pdb
+C:\VEGApraksa\timesheet\TimeSheetWebApp\SQLProject\obj\Debug\SQLProject.sqlprojAssemblyReference.cache
